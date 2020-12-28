@@ -19,8 +19,8 @@ status-website:
   navbar:
     - title: Verite Data Science
       href: https://veritedatascience.com/
-    - title: Status
-      href: https://dstroot.github.io/VDS_uptime/
+#     - title: Status
+#       href: https://dstroot.github.io/VDS_uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
