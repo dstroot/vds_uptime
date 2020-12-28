@@ -14,13 +14,13 @@ status-website:
   baseUrl: /VDS_uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Verite Data Science Uptime"
+  introMessage: "INNOVATION, POWERED BY DATA"
   navbar:
+    - title: Verite Data Science
+      href: https://veritedatascience.com/
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/dstroot/VDS_uptime
+      href: https://dstroot.github.io/VDS_uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
