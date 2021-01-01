@@ -6,6 +6,14 @@ repo: VDS_uptime
 sites:
   - name: Verite Data Science
     url: https://veritedatascience.com/
+  - name: React Instagram
+    url: https://affectionate-aryabhata-c22561.netlify.app/
+  - name: Storybook
+    url: https://zealous-fermat-ea58fd.netlify.app
+  - name: React Infinite Scrolling
+    url: https://modest-panini-61a8ce.netlify.app
+  - name: React Dark Mode (Cloudflare)
+    url: https://react-darkmode.burley.workers.dev/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
