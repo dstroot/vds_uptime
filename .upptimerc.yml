@@ -9,11 +9,13 @@ sites:
   - name: React Instagram
     url: https://affectionate-aryabhata-c22561.netlify.app/
   - name: Storybook
-    url: https://zealous-fermat-ea58fd.netlify.app
+    url: https://zealous-fermat-ea58fd.netlify.app/
   - name: React Infinite Scrolling
-    url: https://modest-panini-61a8ce.netlify.app
+    url: https://modest-panini-61a8ce.netlify.app/
   - name: React Dark Mode (Cloudflare)
     url: https://react-darkmode.burley.workers.dev/
+  - name: Dan Stroot's Blog
+    url: https://danstroot.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
