@@ -14,7 +14,7 @@ sites:
     url: https://modest-panini-61a8ce.netlify.app/
   - name: React Dark Mode (Cloudflare)
     url: https://react-darkmode.burley.workers.dev/
-  - name: Dan Stroot's Blog
+  - name: "Dan Stroot's Blog"
     url: https://danstroot.com/
 
 status-website:
