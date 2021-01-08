@@ -31,8 +31,8 @@ status-website:
       href: https://veritedatascience.com/
 #     - title: Status
 #       href: https://dstroot.github.io/VDS_uptime/
-  i18n:
-    footer: This page is...
+i18n:
+  footer: This page is...
   # footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
