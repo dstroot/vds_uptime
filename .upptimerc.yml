@@ -16,7 +16,14 @@ sites:
     url: https://react-darkmode.burley.workers.dev/
   - name: "Dan Stroot's Blog"
     url: https://danstroot.com/
+    
+# Add downtime notifications
+# https://upptime.js.org/docs/notifications
+notifications:
+  - type: twilio
 
+# Configure your status website
+# http://localhost:3000/docs/configuration#status-website
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
@@ -29,8 +36,9 @@ status-website:
   navbar:
     - title: Verite Data Science
       href: https://veritedatascience.com/
-#     - title: Status
-#       href: https://dstroot.github.io/VDS_uptime/
+  # - title: Status
+  #   href: https://dstroot.github.io/VDS_uptime/
+
 i18n:
   footer: This page is...
   # footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
