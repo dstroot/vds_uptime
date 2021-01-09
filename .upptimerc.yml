@@ -40,7 +40,7 @@ status-website:
   #   href: https://dstroot.github.io/VDS_uptime/
 
 i18n:
-  footer: Designed and built in Califirnia with all the love in the world.
+  footer: Designed and built in California with all the love in the world.
   # footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
