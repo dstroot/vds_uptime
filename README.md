@@ -1,4 +1,4 @@
-# [📈 Live Status](https://dstroot.github.io/VDS_uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://dstroot.github.io/vds_uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Dan Stroot](https://danstroot.com), powered by [Upptime](https://github.com/upptime/upptime).
 
