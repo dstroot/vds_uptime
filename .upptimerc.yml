@@ -31,7 +31,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /vds_uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/dstroot/vds_uptime/master/icon.svg
   name: VDS Uptime
   introTitle: "Verite Data Science Uptime"
   introMessage: "INNOVATION, POWERED BY DATA"
