@@ -6,7 +6,7 @@ repo: vds_uptime    # GitHub repository name
 sites:
   - name: Verite Data Science
     url: https://veritedatascience.com/
-  - name: Verite Data Scince (Netlify)
+  - name: Verite Data Science (Netlify)
     url: https://modest-turing-778882.netlify.app/
   - name: React Instagram
     url: https://affectionate-aryabhata-c22561.netlify.app/
