@@ -40,6 +40,16 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /vds_uptime
   
+  metaTags:
+  - name: "color-scheme"
+    content: "dark light"
+  - name: "robots"
+    content: "noindex"
+    
+  # custom HTML
+  customHeadHtml: "<!-- any custom HTML to append in <head> -->"
+  customBodyHtml: "<!-- any custom HTML to append at the top of <body> -->"
+  
   logoUrl: https://raw.githubusercontent.com/dstroot/vds_uptime/master/icon.svg
   name: VDS Uptime
   
