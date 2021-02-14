@@ -46,8 +46,8 @@ status-website:
   - name: "robots"
     content: "noindex"
     
-  # custom HTML
-  customHeadHtml: "<!-- any custom HTML to append in <head> -->"
+  # custom HTML.  Note: You want to have *one string* even if you have multiple tags
+  customHeadHtml: "<meta charset=\"UTF-8\">"
   customBodyHtml: "<!-- any custom HTML to append at the top of <body> -->"
   
   logoUrl: https://raw.githubusercontent.com/dstroot/vds_uptime/master/icon.svg
