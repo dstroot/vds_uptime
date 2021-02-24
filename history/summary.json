@@ -148,17 +148,17 @@
     "url": "https://www.pacificlife.com/",
     "icon": "https://favicons.githubusercontent.com/www.pacificlife.com",
     "slug": "pacific-life",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 1171,
-    "timeWeek": 869,
-    "timeMonth": 743,
-    "timeYear": 743,
+    "time": 740,
+    "timeDay": 998,
+    "timeWeek": 850,
+    "timeMonth": 740,
+    "timeYear": 740,
     "dailyMinutesDown": {}
   }
 ]
