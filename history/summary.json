@@ -76,19 +76,19 @@
     "url": "https://modest-panini-61a8ce.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/modest-panini-61a8ce.netlify.app",
     "slug": "react-infinite-scrolling",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 146,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 144,
     "timeDay": 57,
-    "timeWeek": 143,
-    "timeMonth": 139,
-    "timeYear": 146,
+    "timeWeek": 132,
+    "timeMonth": 137,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 18
     }
   },
   {
