@@ -76,9 +76,9 @@
     "url": "https://modest-panini-61a8ce.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/modest-panini-61a8ce.netlify.app",
     "slug": "react-infinite-scrolling",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 143,
     "timeMonth": 139,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-25": 0
+    }
   },
   {
     "name": "React Dark Mode (Cloudflare)",
@@ -156,7 +158,7 @@
     "uptimeYear": "100.00%",
     "time": 738,
     "timeDay": 992,
-    "timeWeek": 843,
+    "timeWeek": 798,
     "timeMonth": 738,
     "timeYear": 738,
     "dailyMinutesDown": {}
