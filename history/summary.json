@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/veritedatascience.com",
     "slug": "verite-data-science",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 298,
-    "timeDay": 141,
-    "timeWeek": 118,
+    "uptimeYear": "100.00%",
+    "time": 297,
+    "timeDay": 146,
+    "timeWeek": 126,
     "timeMonth": 133,
-    "timeYear": 298,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "timeYear": 297,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Verite Data Science (Netlify)",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/modest-turing-778882.netlify.app",
     "slug": "verite-data-science-netlify",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 168,
-    "timeDay": 254,
-    "timeWeek": 246,
-    "timeMonth": 125,
-    "timeYear": 168,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "uptimeYear": "100.00%",
+    "time": 166,
+    "timeDay": 40,
+    "timeWeek": 244,
+    "timeMonth": 122,
+    "timeYear": 166,
+    "dailyMinutesDown": {}
   },
   {
     "name": "React Instagram",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/affectionate-aryabhata-c22561.netlify.app",
     "slug": "react-instagram",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 200,
-    "timeDay": 173,
+    "uptimeYear": "100.00%",
+    "time": 198,
+    "timeDay": 35,
     "timeWeek": 193,
-    "timeMonth": 254,
-    "timeYear": 200,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "timeMonth": 247,
+    "timeYear": 198,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Storybook",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/zealous-fermat-ea58fd.netlify.app",
     "slug": "storybook",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 120,
-    "timeDay": 282,
-    "timeWeek": 126,
-    "timeMonth": 86,
-    "timeYear": 120,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "uptimeYear": "100.00%",
+    "time": 119,
+    "timeDay": 52,
+    "timeWeek": 119,
+    "timeMonth": 85,
+    "timeYear": 119,
+    "dailyMinutesDown": {}
   },
   {
     "name": "React Infinite Scrolling",
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 125,
-    "timeDay": 145,
-    "timeWeek": 101,
-    "timeMonth": 83,
-    "timeYear": 125,
+    "time": 124,
+    "timeDay": 17,
+    "timeWeek": 95,
+    "timeMonth": 81,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2021-02-25": 18
     }
@@ -105,19 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/react-darkmode.burley.workers.dev",
     "slug": "react-dark-mode-cloudflare",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 76,
-    "timeWeek": 177,
+    "timeDay": 125,
+    "timeWeek": 178,
     "timeMonth": 141,
     "timeYear": 132,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dan Stroot's Blog",
@@ -125,19 +115,17 @@
     "icon": "https://favicons.githubusercontent.com/danstroot.com",
     "slug": "dan-stroot-s-blog",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 119,
-    "timeDay": 72,
-    "timeWeek": 309,
-    "timeMonth": 152,
-    "timeYear": 119,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "uptimeYear": "100.00%",
+    "time": 120,
+    "timeDay": 248,
+    "timeWeek": 259,
+    "timeMonth": 155,
+    "timeYear": 120,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Site Monitor",
@@ -145,19 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/dstroot.github.io",
     "slug": "site-monitor",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 51,
-    "timeWeek": 80,
-    "timeMonth": 99,
+    "timeDay": 90,
+    "timeWeek": 78,
+    "timeMonth": 98,
     "timeYear": 91,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pacific Life",
@@ -165,18 +151,16 @@
     "icon": "https://favicons.githubusercontent.com/www.pacificlife.com",
     "slug": "pacific-life",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 745,
-    "timeDay": 709,
-    "timeWeek": 916,
-    "timeMonth": 760,
-    "timeYear": 745,
-    "dailyMinutesDown": {
-      "2021-02-25": 18
-    }
+    "uptimeYear": "100.00%",
+    "time": 743,
+    "timeDay": 662,
+    "timeWeek": 914,
+    "timeMonth": 757,
+    "timeYear": 743,
+    "dailyMinutesDown": {}
   }
 ]
