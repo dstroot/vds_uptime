@@ -150,19 +150,19 @@
     "url": "https://www.pacificlife.com/",
     "icon": "https://favicons.githubusercontent.com/www.pacificlife.com",
     "slug": "pacific-life",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 527,
-    "timeWeek": 549,
-    "timeMonth": 566,
-    "timeYear": 690,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 689,
+    "timeDay": 553,
+    "timeWeek": 555,
+    "timeMonth": 567,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2021-05-01": 0
+      "2021-05-01": 8
     }
   }
 ]
