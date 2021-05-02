@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 87,
-    "timeWeek": 99,
-    "timeMonth": 124,
-    "timeYear": 261,
+    "time": 260,
+    "timeDay": 103,
+    "timeWeek": 101,
+    "timeMonth": 125,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 770,
-    "timeWeek": 391,
-    "timeMonth": 250,
-    "timeYear": 194,
+    "time": 192,
+    "timeDay": 45,
+    "timeWeek": 392,
+    "timeMonth": 248,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 48,
-    "timeWeek": 191,
-    "timeMonth": 127,
+    "timeDay": 134,
+    "timeWeek": 203,
+    "timeMonth": 130,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 65,
-    "timeWeek": 81,
-    "timeMonth": 150,
+    "timeWeek": 84,
+    "timeMonth": 151,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 141,
-    "timeDay": 873,
+    "time": 140,
+    "timeDay": 71,
     "timeWeek": 296,
     "timeMonth": 198,
-    "timeYear": 141,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2021-02-25": 18
     }
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 436,
-    "timeWeek": 449,
-    "timeMonth": 223,
+    "timeDay": 151,
+    "timeWeek": 456,
+    "timeMonth": 221,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 261,
-    "timeWeek": 401,
+    "time": 155,
+    "timeDay": 249,
+    "timeWeek": 421,
     "timeMonth": 265,
-    "timeYear": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 54,
-    "timeWeek": 60,
-    "timeMonth": 77,
-    "timeYear": 88,
+    "time": 87,
+    "timeDay": 40,
+    "timeWeek": 59,
+    "timeMonth": 75,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   },
   {
@@ -151,18 +151,16 @@
     "icon": "https://favicons.githubusercontent.com/www.pacificlife.com",
     "slug": "pacific-life",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 689,
-    "timeDay": 553,
-    "timeWeek": 555,
-    "timeMonth": 567,
-    "timeYear": 689,
-    "dailyMinutesDown": {
-      "2021-05-01": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 688,
+    "timeDay": 531,
+    "timeWeek": 552,
+    "timeMonth": 570,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
   }
 ]
