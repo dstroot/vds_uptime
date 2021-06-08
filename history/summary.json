@@ -4,18 +4,20 @@
     "url": "https://veritedatascience.com/",
     "icon": "https://favicons.githubusercontent.com/veritedatascience.com",
     "slug": "verite-data-science",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 90,
+    "time": 229,
+    "timeDay": 100,
     "timeWeek": 110,
-    "timeMonth": 102,
-    "timeYear": 230,
-    "dailyMinutesDown": {}
+    "timeMonth": 103,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Verite Data Science (Netlify)",
@@ -132,18 +134,20 @@
     "url": "https://dstroot.github.io/vds_uptime/",
     "icon": "https://favicons.githubusercontent.com/dstroot.github.io",
     "slug": "site-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 68,
+    "timeDay": 69,
     "timeWeek": 68,
     "timeMonth": 60,
     "timeYear": 81,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Pacific Life",
