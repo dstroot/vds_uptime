@@ -116,19 +116,19 @@
     "url": "https://danstroot.com/",
     "icon": "https://favicons.githubusercontent.com/danstroot.com",
     "slug": "dan-stroot-s-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 192,
-    "timeDay": 124,
-    "timeWeek": 340,
-    "timeMonth": 390,
+    "timeDay": 203,
+    "timeWeek": 333,
+    "timeMonth": 386,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2021-07-10": 0
+      "2021-07-10": 61
     }
   },
   {
