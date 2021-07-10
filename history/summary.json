@@ -116,9 +116,9 @@
     "url": "https://danstroot.com/",
     "icon": "https://favicons.githubusercontent.com/danstroot.com",
     "slug": "dan-stroot-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 340,
     "timeMonth": 390,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-10": 0
+    }
   },
   {
     "name": "Site Monitor",
