@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 210,
-    "timeDay": 89,
-    "timeWeek": 113,
-    "timeMonth": 101,
-    "timeYear": 210,
+    "time": 209,
+    "timeDay": 67,
+    "timeWeek": 105,
+    "timeMonth": 100,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2021-06-08": 59
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 72,
-    "timeWeek": 205,
-    "timeMonth": 218,
-    "timeYear": 221,
+    "time": 220,
+    "timeDay": 71,
+    "timeWeek": 187,
+    "timeMonth": 216,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 86,
-    "timeWeek": 167,
-    "timeMonth": 164,
-    "timeYear": 183,
+    "time": 182,
+    "timeDay": 45,
+    "timeWeek": 144,
+    "timeMonth": 161,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 44,
-    "timeWeek": 220,
-    "timeMonth": 215,
+    "timeDay": 76,
+    "timeWeek": 201,
+    "timeMonth": 213,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 44,
-    "timeWeek": 161,
-    "timeMonth": 156,
+    "timeDay": 74,
+    "timeWeek": 142,
+    "timeMonth": 137,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2021-02-25": 18
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 166,
-    "timeWeek": 263,
-    "timeMonth": 203,
-    "timeYear": 157,
+    "time": 158,
+    "timeDay": 196,
+    "timeWeek": 257,
+    "timeMonth": 204,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -118,14 +118,14 @@
     "slug": "dan-stroot-s-blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 192,
-    "timeDay": 260,
-    "timeWeek": 344,
-    "timeMonth": 387,
+    "timeDay": 178,
+    "timeWeek": 279,
+    "timeMonth": 385,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2021-07-10": 61
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 78,
-    "timeDay": 33,
-    "timeWeek": 80,
-    "timeMonth": 64,
-    "timeYear": 78,
+    "time": 77,
+    "timeDay": 45,
+    "timeWeek": 71,
+    "timeMonth": 61,
+    "timeYear": 77,
     "dailyMinutesDown": {
       "2021-06-08": 34
     }
@@ -162,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 616,
-    "timeDay": 549,
-    "timeWeek": 420,
-    "timeMonth": 501,
-    "timeYear": 616,
+    "time": 615,
+    "timeDay": 524,
+    "timeWeek": 415,
+    "timeMonth": 515,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2021-05-02": 37
     }
