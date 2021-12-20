@@ -24,9 +24,9 @@
     "url": "https://modest-turing-778882.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/modest-turing-778882.netlify.app",
     "slug": "verite-data-science-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 80,
     "timeMonth": 148,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "React Instagram",
@@ -62,9 +64,9 @@
     "url": "https://zealous-fermat-ea58fd.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/zealous-fermat-ea58fd.netlify.app",
     "slug": "storybook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,6 +76,7 @@
     "timeMonth": 141,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-09-22": 29,
       "2021-08-03": 18
     }
@@ -84,18 +87,18 @@
     "icon": "https://favicons.githubusercontent.com/modest-panini-61a8ce.netlify.app",
     "slug": "react-infinite-scrolling",
     "status": "down",
-    "uptime": "98.62%",
+    "uptime": "98.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.56%",
-    "uptimeMonth": "84.02%",
-    "uptimeYear": "98.62%",
+    "uptimeWeek": "19.67%",
+    "uptimeMonth": "81.51%",
+    "uptimeYear": "98.40%",
     "time": 152,
     "timeDay": 56,
     "timeWeek": 119,
     "timeMonth": 139,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2021-12-20": 37,
+      "2021-12-20": 1135,
       "2021-12-19": 1440,
       "2021-12-18": 1440,
       "2021-12-17": 1440,
