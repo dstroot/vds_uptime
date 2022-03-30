@@ -14,8 +14,6 @@ sites:
     url: https://zealous-fermat-ea58fd.netlify.app/
   - name: React Infinite Scrolling
     url: https://modest-panini-61a8ce.netlify.app/
-  - name: React Dark Mode (Cloudflare)
-    url: https://react-darkmode.burley.workers.dev/
   - name: "Dan Stroot's Blog"
     url: https://danstroot.com/
   - name: Site Monitor
