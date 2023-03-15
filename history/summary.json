@@ -105,7 +105,7 @@
     "timeMonth": 128,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-03-15": 963,
+      "2023-03-15": 970,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
@@ -477,19 +477,19 @@
     "url": "https://danstroot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/danstroot.com.ico",
     "slug": "dan-stroot-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 91,
-    "timeWeek": 208,
-    "timeMonth": 299,
+    "time": 312,
+    "timeDay": 272,
+    "timeWeek": 238,
+    "timeMonth": 304,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2023-03-15": 4
+      "2023-03-15": 10
     }
   },
   {
@@ -497,19 +497,19 @@
     "url": "https://dstroot.github.io/vds_uptime/",
     "icon": "https://icons.duckduckgo.com/ip3/dstroot.github.io.ico",
     "slug": "site-monitor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 108,
-    "timeWeek": 89,
-    "timeMonth": 87,
+    "timeDay": 128,
+    "timeWeek": 96,
+    "timeMonth": 89,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2023-03-15": 3
+      "2023-03-15": 10
     }
   },
   {
