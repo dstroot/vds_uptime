@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/modest-panini-61a8ce.netlify.app.ico",
     "slug": "react-infinite-scrolling",
     "status": "down",
-    "uptime": "43.30%",
+    "uptime": "43.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -105,7 +105,7 @@
     "timeMonth": 128,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-03-15": 8,
+      "2023-03-15": 963,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
@@ -477,36 +477,40 @@
     "url": "https://danstroot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/danstroot.com.ico",
     "slug": "dan-stroot-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 91,
     "timeWeek": 208,
     "timeMonth": 299,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-15": 4
+    }
   },
   {
     "name": "Site Monitor",
     "url": "https://dstroot.github.io/vds_uptime/",
     "icon": "https://icons.duckduckgo.com/ip3/dstroot.github.io.ico",
     "slug": "site-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 71,
     "timeDay": 108,
     "timeWeek": 89,
     "timeMonth": 87,
     "timeYear": 73,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-15": 3
+    }
   },
   {
     "name": "Pacific Life",
