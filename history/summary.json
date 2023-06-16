@@ -4,19 +4,19 @@
     "url": "https://veritedatascience.com/",
     "icon": "https://icons.duckduckgo.com/ip3/veritedatascience.com.ico",
     "slug": "verite-data-science",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 5080,
-    "timeWeek": 1413,
-    "timeMonth": 409,
+    "timeDay": 2568,
+    "timeWeek": 1243,
+    "timeMonth": 398,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 11
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 144,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-06-16": 960,
+      "2023-06-16": 971,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
