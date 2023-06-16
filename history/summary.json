@@ -4,9 +4,9 @@
     "url": "https://veritedatascience.com/",
     "icon": "https://icons.duckduckgo.com/ip3/veritedatascience.com.ico",
     "slug": "verite-data-science",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1413,
     "timeMonth": 409,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "Verite Data Science (Netlify)",
@@ -85,7 +87,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/modest-panini-61a8ce.netlify.app.ico",
     "slug": "react-infinite-scrolling",
     "status": "down",
-    "uptime": "38.81%",
+    "uptime": "38.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -96,7 +98,7 @@
     "timeMonth": 144,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-06-16": 8,
+      "2023-06-16": 960,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
