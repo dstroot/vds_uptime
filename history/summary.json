@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 137,
-    "timeWeek": 127,
-    "timeMonth": 126,
+    "timeDay": 123,
+    "timeWeek": 125,
+    "timeMonth": 112,
     "timeYear": 137,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 507,
-    "timeWeek": 159,
-    "timeMonth": 133,
-    "timeYear": 191,
+    "timeDay": 23,
+    "timeWeek": 151,
+    "timeMonth": 131,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2022-09-03": 59
     }
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 81,
-    "timeWeek": 147,
+    "timeDay": 24,
+    "timeWeek": 139,
     "timeMonth": 124,
     "timeYear": 253,
     "dailyMinutesDown": {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 212,
-    "timeDay": 128,
-    "timeWeek": 214,
+    "time": 211,
+    "timeDay": 81,
+    "timeWeek": 164,
     "timeMonth": 143,
-    "timeYear": 215,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2022-11-19": 35
     }
@@ -83,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/modest-panini-61a8ce.netlify.app.ico",
     "slug": "react-infinite-scrolling",
     "status": "down",
-    "uptime": "35.81%",
+    "uptime": "35.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 125,
-    "timeDay": 122,
-    "timeWeek": 123,
+    "time": 126,
+    "timeDay": 128,
+    "timeWeek": 124,
     "timeMonth": 119,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-08-30": 8,
+      "2023-08-31": 8,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -457,8 +458,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -473,10 +473,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 99,
-    "timeWeek": 266,
-    "timeMonth": 267,
-    "timeYear": 331,
+    "timeDay": 138,
+    "timeWeek": 241,
+    "timeMonth": 266,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -491,9 +491,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 109,
-    "timeWeek": 96,
-    "timeMonth": 83,
+    "timeDay": 128,
+    "timeWeek": 98,
+    "timeMonth": 84,
     "timeYear": 80,
     "dailyMinutesDown": {}
   },
@@ -509,10 +509,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 567,
-    "timeDay": 220,
-    "timeWeek": 444,
-    "timeMonth": 491,
-    "timeYear": 544,
+    "timeDay": 207,
+    "timeWeek": 446,
+    "timeMonth": 489,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2023-08-19": 32,
       "2023-03-07": 45,
