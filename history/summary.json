@@ -22,9 +22,9 @@
     "url": "https://modest-turing-778882.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/modest-turing-778882.netlify.app.ico",
     "slug": "verite-data-science-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 138,
     "timeMonth": 128,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "React Instagram",
@@ -81,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/modest-panini-61a8ce.netlify.app.ico",
     "slug": "react-infinite-scrolling",
     "status": "down",
-    "uptime": "35.33%",
+    "uptime": "35.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -92,7 +94,7 @@
     "timeMonth": 107,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-09-12": 8,
+      "2023-09-12": 1278,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
