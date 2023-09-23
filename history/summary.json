@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/modest-panini-61a8ce.netlify.app.ico",
     "slug": "react-infinite-scrolling",
     "status": "down",
-    "uptime": "34.94%",
+    "uptime": "34.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -92,7 +92,7 @@
     "timeMonth": 101,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-09-23": 7,
+      "2023-09-23": 1163,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
@@ -500,9 +500,9 @@
     "url": "https://www.pacificlife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pacificlife.com.ico",
     "slug": "pacific-life",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -512,6 +512,7 @@
     "timeMonth": 554,
     "timeYear": 541,
     "dailyMinutesDown": {
+      "2023-09-23": 0,
       "2023-08-19": 32,
       "2023-03-07": 45,
       "2023-02-03": 73
