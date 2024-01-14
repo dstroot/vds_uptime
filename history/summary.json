@@ -58,19 +58,19 @@
     "url": "https://zealous-fermat-ea58fd.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/zealous-fermat-ea58fd.netlify.app.ico",
     "slug": "storybook",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 21,
-    "timeWeek": 137,
-    "timeMonth": 186,
+    "time": 188,
+    "timeDay": 50,
+    "timeWeek": 129,
+    "timeMonth": 183,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 9
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 74,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-01-14": 473,
+      "2024-01-14": 482,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
