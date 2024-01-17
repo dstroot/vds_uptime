@@ -22,19 +22,19 @@
     "url": "https://modest-turing-778882.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/modest-turing-778882.netlify.app.ico",
     "slug": "verite-data-science-netlify",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 82,
-    "timeWeek": 81,
-    "timeMonth": 91,
-    "timeYear": 129,
+    "time": 162,
+    "timeDay": 60,
+    "timeWeek": 74,
+    "timeMonth": 88,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 11
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 77,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-01-17": 796,
+      "2024-01-17": 806,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
