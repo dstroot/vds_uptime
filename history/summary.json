@@ -88,7 +88,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-08-11": 11,
+      "2024-08-11": 31,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
       "2024-08-08": 1440,
@@ -460,19 +460,19 @@
     "url": "https://danstroot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/danstroot.com.ico",
     "slug": "dan-stroot-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 521,
-    "timeWeek": 436,
-    "timeMonth": 551,
-    "timeYear": 478,
+    "time": 436,
+    "timeDay": 385,
+    "timeWeek": 412,
+    "timeMonth": 541,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-08-11": 6
+      "2024-08-11": 26
     }
   },
   {
