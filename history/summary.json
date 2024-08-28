@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 156,
-    "timeWeek": 162,
-    "timeMonth": 142,
-    "timeYear": 125,
+    "timeDay": 197,
+    "timeWeek": 176,
+    "timeMonth": 144,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "verite-data-science-netlify",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 41,
-    "timeWeek": 83,
-    "timeMonth": 93,
+    "timeDay": 50,
+    "timeWeek": 85,
+    "timeMonth": 97,
     "timeYear": 97,
-    "dailyMinutesDown": {
-      "2024-08-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "React Instagram",
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 34,
-    "timeWeek": 109,
+    "timeDay": 48,
+    "timeWeek": 110,
     "timeMonth": 117,
-    "timeYear": 115,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 88,
-    "timeWeek": 136,
-    "timeMonth": 101,
+    "timeDay": 50,
+    "timeWeek": 139,
+    "timeMonth": 100,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -79,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/modest-panini-61a8ce.netlify.app.ico",
     "slug": "react-infinite-scrolling",
     "status": "down",
-    "uptime": "26.05%",
+    "uptime": "26.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 92,
-    "timeDay": 89,
-    "timeWeek": 93,
+    "timeDay": 55,
+    "timeWeek": 82,
     "timeMonth": 88,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-08-27": 360,
+      "2024-08-28": 10,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -453,8 +452,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440
+      "2023-08-30": 1440
     }
   },
   {
@@ -468,10 +466,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 296,
-    "timeWeek": 352,
-    "timeMonth": 405,
+    "time": 435,
+    "timeDay": 316,
+    "timeWeek": 355,
+    "timeMonth": 401,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2024-08-11": 26
@@ -489,8 +487,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 171,
-    "timeWeek": 108,
+    "timeDay": 51,
+    "timeWeek": 107,
     "timeMonth": 99,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -507,10 +505,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 705,
-    "timeDay": 430,
-    "timeWeek": 590,
-    "timeMonth": 638,
-    "timeYear": 751,
+    "timeDay": 899,
+    "timeWeek": 599,
+    "timeMonth": 640,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2024-08-15": 79,
       "2023-09-23": 17
