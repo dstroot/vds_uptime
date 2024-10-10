@@ -22,18 +22,20 @@
     "url": "https://modest-turing-778882.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/modest-turing-778882.netlify.app.ico",
     "slug": "verite-data-science-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 103,
-    "timeWeek": 170,
-    "timeMonth": 292,
+    "timeDay": 70,
+    "timeWeek": 153,
+    "timeMonth": 284,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "React Instagram",
@@ -88,7 +90,7 @@
     "timeMonth": 107,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-10-10": 11,
+      "2024-10-10": 690,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
