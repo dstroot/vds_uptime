@@ -88,7 +88,7 @@
     "timeMonth": 100,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-10-18": 10,
+      "2024-10-18": 96,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -498,18 +498,19 @@
     "url": "https://www.pacificlife.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pacificlife.com.ico",
     "slug": "pacific-life",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 711,
-    "timeDay": 314,
-    "timeWeek": 547,
-    "timeMonth": 585,
-    "timeYear": 747,
+    "timeDay": 387,
+    "timeWeek": 536,
+    "timeMonth": 581,
+    "timeYear": 746,
     "dailyMinutesDown": {
+      "2024-10-18": 0,
       "2024-08-15": 79
     }
   }
